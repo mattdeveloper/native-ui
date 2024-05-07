@@ -1,0 +1,2 @@
+export declare const Wrapper: import("styled-components/native").IStyledComponent<"native", import("styled-components/native/dist/types").FastOmit<import("react-native").TouchableOpacityProps, never>>;
+//# sourceMappingURL=styles.d.ts.map
